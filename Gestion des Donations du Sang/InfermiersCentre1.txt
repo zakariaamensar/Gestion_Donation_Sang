@@ -1,0 +1,2 @@
+l'infermier amensar zakaria [codeInfermier=1, chef_ou_non=false]
+l'infermier guilmi safwane [codeInfermier=2, chef_ou_non=true]
